@@ -1,0 +1,19 @@
+.menu {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    background-color: black;
+    height: 50px;
+}
+.menuItem {
+    text-align: center;
+    color: white;
+    width: 100%;
+    cursor: pointer;
+}
+.menuItem:hover {
+    color: pink;
+}
+
+
